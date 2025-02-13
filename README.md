@@ -189,5 +189,5 @@ flowchart LR
 ## 7. About
 
 - **Pattern Name:** Minimal Drift Pattern
-- **Repository:** [minimal-edit-pattern](https://github.com/inoueakimitsu/minimal-edit-pattern)  
+- **Repository:** [minimal-edit-pattern](https://github.com/inoueakimitsu/minimal-drift-pattern)  
 - **Author:** Akimitsu Inoue
