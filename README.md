@@ -103,7 +103,8 @@ Below is a sample prompt for an LLM that instructs it to produce a translation w
 
 > **Prompt (example):**
 > ```
-> You are given the following From here, translate as appropriate to create English sentence 1.
+> You are given the following texts.
+> From here, translate Japanese sentence 1 as appropriate to create English sentence 1.
 >
 > - Japanese sentence 0
 > - English Sentence 0 (This is a translation of Japanese Sentence 0)
@@ -188,5 +189,5 @@ flowchart LR
 ## 7. About
 
 - **Pattern Name:** Minimal Drift Pattern
-- **Repository:** [minimal-edit-pattern](https://github.com/your-account/minimal-edit-pattern)  
+- **Repository:** [minimal-edit-pattern](https://github.com/inoueakimitsu/minimal-edit-pattern)  
 - **Author:** Akimitsu Inoue
