@@ -5,6 +5,8 @@
 
 ## Conclusion (Key Points First)
 
+![figure1](./figure1.drawio.png)
+
 **Minimal Drift Pattern** is a general-purpose method for reflecting new changes as minimal "diffs" while maintaining the relationship between a source (S) and a destination (D).
 It emphasizes an "inertial" approach to editing, where the original intent and structure (e.g., translations, comments, or images) are preserved as much as possible during updates.
 
